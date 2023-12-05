@@ -1,5 +1,4 @@
-### Hi there 👋,
-### I am Wander.
+### Hi there👋, I'm Wander.
 
 - 👨‍🎓 I have a bachelor's degree and a master’s in Business Analytics
 - 🌱 I’m currently learning Elixir, Solidity, and Blockchain
