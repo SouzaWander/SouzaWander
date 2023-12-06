@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Wander.
 
-- 👨‍🎓 I have a bachelor's degree and a master’s in Business Analytics
+- 👨‍🎓 I have a bachelor's degree in Computer Engineering Sciences and a master’s in Business Analytics
 - 🌱 I’m currently learning Elixir, Solidity, and Blockchain
 - 📫 How to reach me:
 <p align="left">
